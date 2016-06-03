@@ -1,5 +1,7 @@
 # rectangleMadness
 
+DEMO: http://daniel-llach.github.io/rectanglemadness/
+
 Tomando la rama *master* de *backboneStart* y el ejercicio **rectangles** de [codeacademy] (https://www.youtube.com/watch?v=vPW1inIsln4&list=PLQUMc4-0pHw6_vUL1ty11EvDIgydBI_BL&index=6) creé este ejercicio llamado **backboneMadness** en el cual nombré *rectangleView* a **appView** y separé el modelo *Rectangle* en un archivo independiente dentro de una nueva carpeta *models*. 
 
 Además el llamado a la app **rectangle** la dejé en el archivo *main.js* en el cual llama a la función *RectangleView*  pasandole la lista de objetos *models* con los datos de los **rectangles** por medio de un **each** de **underscore**.
